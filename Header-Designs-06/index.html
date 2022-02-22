@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"
+    />
+    <link rel="stylesheet" href="style.css">
+    <title>Drawer Menu with Overlay</title>
+</head>
+<body>
+    
+    <label for="menu-opener" tabindex="0" aria-haspopup="true" role="button" aria-controls="menu" class="openMenuButton" id="openmenu">
+        Open Menu
+    </label>
+
+    <input type="checkbox" data-menu id="menu-opener" hidden />
+    <aside class="drawerMenu" role="menu" id="menu" aria-labelledby="openmenu">
+        <nav class="menu">
+            <h2>Awesome CSS Menu</h2>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 01</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 02</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 03</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 04</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 05</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 06</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 07</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 08</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 09</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 10</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 11</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 12</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 13</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 14</a>
+            <a href="#" role="menuitem" tabindex="-1">Menu Item 15</a>
+        </nav>
+        <label for="menu-opener" class="menuoverlay"></label>
+    </aside>
+</body>
+</html>
