@@ -11,12 +11,12 @@ CURSOS LINK 👇
 
 |  #  | Projeto                                                                                                      | Youtube Link    |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Header Designs-1]()      | Clique aqui |
-| 02  | [Header Designs-2]()      | Clique aqui |
-| 03  | [Header Designs-3]()      | Clique aqui |
-| 04  | [Header Designs-4]()      | Clique aqui |
-| 05  | [Header Designs-5]()      | Clique aqui |
-| 06  | [Header Designs-6]()      | Clique aqui |
+| 01  | [Header Designs-1](https://github.com/johnpires/08-Header-Designs/tree/main/Header-Designs-01)      | Clique aqui |
+| 02  | [Header Designs-2](https://github.com/johnpires/08-Header-Designs/tree/main/Header-Designs-02)      | Clique aqui |
+| 03  | [Header Designs-3](https://github.com/johnpires/08-Header-Designs/tree/main/Header-Designs-03)      | Clique aqui |
+| 04  | [Header Designs-4](https://github.com/johnpires/08-Header-Designs/tree/main/Header-Designs-04)      | Clique aqui |
+| 05  | [Header Designs-5](https://github.com/johnpires/08-Header-Designs/tree/main/Header-Designs-05)      | Clique aqui |
+| 06  | [Header Designs-6](https://github.com/johnpires/08-Header-Designs/tree/main/Header-Designs-06)      | Clique aqui |
 | 07  | [Header Designs-7]()      | Clique aqui |
 | 08  | [Header Designs-8]()      | Clique aqui |
 | 09  | [Header Designs-9]()      | Clique aqui |
