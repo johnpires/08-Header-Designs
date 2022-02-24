@@ -18,9 +18,9 @@ CURSOS LINK 👇
 | 05  | [Header Designs-5](https://github.com/johnpires/08-Header-Designs/tree/main/Header-Designs-05)      | Clique aqui |
 | 06  | [Header Designs-6](https://github.com/johnpires/08-Header-Designs/tree/main/Header-Designs-06)      | Clique aqui |
 | 07  | [Header Designs-7](https://github.com/johnpires/08-Header-Designs/tree/main/Header-Designs-07)      | Clique aqui |
-| 08  | [Header Designs-8]()      | Clique aqui |
-| 09  | [Header Designs-9]()      | Clique aqui |
-| 10  | [Header Designs-10]()      | Clique aqui |
+| 08  | [Header Designs-8](https://github.com/johnpires/08-Header-Designs/tree/main/Header-Designs-08)      | Clique aqui |
+| 09  | [Header Designs-9](https://github.com/johnpires/08-Header-Designs/tree/main/Header-Designs-09)      | Clique aqui |
+| 10  | [Header Designs-10](https://github.com/johnpires/08-Header-Designs/tree/main/Header-Designs-10)      | Clique aqui |
 
 
 <br>
